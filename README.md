@@ -1,4 +1,6 @@
 # bigquery-ecommerce-returns
+https://www.linkedin.com/in/miguel-dos-santos-dantas-025ba6358/
+📂 Estrutura do Repositório
 O projeto foi dividido em scripts sequenciais para refletir as etapas de maturação da análise e a evolução da lógica de programação em SQL:
 
 01_exploracao_inicial.sql: Análise exploratória inicial dos dados. Foca no entendimento básico da volumetria, utilizando JOIN entre as tabelas de itens de pedidos e produtos, aplicando filtros de status (WHERE oi.status = 'Returned') e agrupamentos por categoria (GROUP BY) para mapear o volume absoluto de devoluções.
